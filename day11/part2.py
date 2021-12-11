@@ -5,7 +5,6 @@ width = len(octs[0])
 height = len(octs)
 
 flashes = 0
-test = ""
 
 def increase():
     for x in range(width):
